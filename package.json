@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/pankajkaule/nodejs_authentication/issues"
   },
-  "homepage": "https://github.com/pankajkaule/nodejs_authentication#readme"
+  "homepage": "https://github.com/pankajkaule/nodejs_authentication#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
